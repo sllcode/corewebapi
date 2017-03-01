@@ -1,8 +1,0 @@
-D:\github\CoreWebApi\CoreWebApi\bin\Debug\netcoreapp1.0\CoreWebApi.deps.json
-D:\github\CoreWebApi\CoreWebApi\bin\Debug\netcoreapp1.0\CoreWebApi.runtimeconfig.json
-D:\github\CoreWebApi\CoreWebApi\bin\Debug\netcoreapp1.0\CoreWebApi.runtimeconfig.dev.json
-D:\github\CoreWebApi\CoreWebApi\bin\Debug\netcoreapp1.0\CoreWebApi.dll
-D:\github\CoreWebApi\CoreWebApi\bin\Debug\netcoreapp1.0\CoreWebApi.pdb
-D:\github\CoreWebApi\CoreWebApi\obj\Debug\netcoreapp1.0\CoreWebApi.AssemblyInfo.cs
-D:\github\CoreWebApi\CoreWebApi\obj\Debug\netcoreapp1.0\CoreWebApi.dll
-D:\github\CoreWebApi\CoreWebApi\obj\Debug\netcoreapp1.0\CoreWebApi.pdb

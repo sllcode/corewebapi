@@ -1,9 +1,0 @@
-D:\github\CoreWebApi\CoreWebApi\bin\Release\netcoreapp1.0\CoreWebApi.deps.json
-D:\github\CoreWebApi\CoreWebApi\bin\Release\netcoreapp1.0\CoreWebApi.runtimeconfig.json
-D:\github\CoreWebApi\CoreWebApi\bin\Release\netcoreapp1.0\CoreWebApi.runtimeconfig.dev.json
-D:\github\CoreWebApi\CoreWebApi\bin\Release\netcoreapp1.0\CoreWebApi.dll
-D:\github\CoreWebApi\CoreWebApi\bin\Release\netcoreapp1.0\CoreWebApi.pdb
-D:\github\CoreWebApi\CoreWebApi\obj\Release\netcoreapp1.0\CoreWebApi.csprojResolveAssemblyReference.cache
-D:\github\CoreWebApi\CoreWebApi\obj\Release\netcoreapp1.0\CoreWebApi.AssemblyInfo.cs
-D:\github\CoreWebApi\CoreWebApi\obj\Release\netcoreapp1.0\CoreWebApi.dll
-D:\github\CoreWebApi\CoreWebApi\obj\Release\netcoreapp1.0\CoreWebApi.pdb
